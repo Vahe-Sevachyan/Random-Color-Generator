@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: sans-serif;
+    padding-bottom: 2rem;
+}
+.nav{
+    padding-top: 3rem;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.container div{
+    margin-top: 5rem;
+    margin: auto;
+    text-align: center;
+    width: 20rem;
+    height: 3rem;
+    font-family: sans-serif;
+}
+button{
+    margin-bottom: 2rem;
+    padding: .5rem;
+    border-radius: 5px;
+    border: none;
+    background-color: dodgerblue;
+    color: white;
+    font-weight: 500;
+    letter-spacing: .8px;
+}
+button:hover{
+    color: dodgerblue;
+    background-color: gainsboro;
+    cursor: pointer;
+}
+h1{
+    color: dodgerblue;
+}
