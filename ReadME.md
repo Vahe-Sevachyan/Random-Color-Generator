@@ -6,4 +6,4 @@
 
 > *screen shot sample below!*
 
-![Mark Down](./images/screen-shot.png?raw=true ) 
+![Mark Down](./Images/Screen-Shot.png?raw=true ) 
