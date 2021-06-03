@@ -6,4 +6,4 @@
 
 > *screen shot sample below!*
 
-![Mark Down](./images/screen-shot.png "Screen Shot of colors") 
+![Mark Down](./images/screen-shot.png?raw=true ) 
